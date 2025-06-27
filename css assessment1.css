@@ -1,0 +1,80 @@
+.h11{
+    text-align: center;
+    }
+
+.div1{
+    border-style: ridge;
+    background-color: aliceblue;
+    border-radius: 10px;
+    }
+
+
+    table{
+        border-collapse: collapse;
+        text-align: left;
+        
+        }
+
+    .tr1 th{
+        background-color: rgb(119, 164, 233);
+        padding-left: 15px;
+        }
+
+    .tr2 td{
+        padding-left: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        }
+    .tr3 td{
+        padding-left: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+        }
+    .tr4 td{
+        padding-left: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        }
+     
+     footer{
+        background-color: rgb(26, 19, 19);
+        text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+        }
+
+    body{
+        background-color: rgb(247, 248, 248);
+        margin: 50px 30px 300px 30px;
+        }
+
+    section{
+        background-color:#c3ddfa;
+        padding: 10px 500px 10px 500px;
+        margin: 50px 20px 0px 20px;
+        }
+
+        .cla45{
+            padding: 20px;
+            margin: 20px;
+             }
+
+        .cla46{
+            padding: 20px;
+            margin: 20px;
+            }
+
+        #div1{
+            padding: 20px!important;
+            }
+        .cla56{
+            width: 100%;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            }
+
+        .cla123{
+            width: 100%;
+            }
+        
