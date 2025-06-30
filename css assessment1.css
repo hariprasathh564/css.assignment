@@ -4,7 +4,7 @@
 
 .div1{
     border-style: ridge;
-    background-color: aliceblue;
+    background-color: rgb(198, 210, 221);
     border-radius: 10px;
     }
 
@@ -16,17 +16,17 @@
         }
 
     .tr1 th{
-        background-color: rgb(119, 164, 233);
+        background-color: rgb(12, 38, 78);
         padding-left: 14px;
         }
 
     .tr2 td{
-        padding-left: 10px;
+        padding-left: 50px;
         padding-top: 5px;
         padding-bottom: 5px;
         }
     .tr3 td{
-        padding-left: 10px;
+        padding-left: 20px;
         padding-top: 5px;
         padding-bottom: 5px;
 
